@@ -1,3 +1,3 @@
-npm install
-npm run typings install
-npm start
+* npm install
+* npm run typings install
+* npm start
